@@ -63,7 +63,7 @@ export const projects = [
         "tags": ["Python", "Flask", "React", "SQLite"],
         "image": "book-club",
         "links": {
-            "github": "https://github.com/you/book-club",
+            "github": "https://github.com/gre-ni/sistersinbooks",
             "live": null
         },
         "featured": true,

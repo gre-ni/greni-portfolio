@@ -4,7 +4,7 @@ export const Hero = () => {
 
     const highlightClass = "font-mono text-(--color-highlight)";
 
-    return <div className="pt-20 grid grid-cols-6 gap-12">
+    return <div className="pt-16 grid grid-cols-6 gap-8">
     <h1 className="col-span-6">Hi, I'm <span className={highlightClass}>Nikol</span>.
         <br />I am a Prague-based <span className={highlightClass}>developer</span>
         <br />with focus on <span className={highlightClass}>data</span> and <span className={highlightClass}>design</span>.</h1>
