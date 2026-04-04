@@ -6,7 +6,8 @@ import { Footer } from './sections/Footer'
 
 function App() {
 
-  const colors = ['#AED318', '#B8D8BA', '#EF959D']
+  const colors = ['#AED318', '#EEC643', '#AFD5AA', '#86BBD8']
+  // '#FF715B' -> red
   const [colorIndex, setColorIndex] = useState(0)
 
   const cycleColor = () => {
