@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Navbar } from './sections/Navbar'
 import { Hero } from './sections/Hero'
 import { Projects } from './sections/Projects'
+import { Footer } from './sections/Footer'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
         <Navbar />
         <Hero />
         <Projects />
+        <Footer />
       </div>
     </div>
   )

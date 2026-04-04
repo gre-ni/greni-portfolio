@@ -58,7 +58,7 @@ export const projects = [
     {
         "id": 5,
         "date": null,
-        "title": "Book Club Website",
+        "title": "[wip] Book Club Website",
         "description": "A Flask + React app keeping track of what we read in my book club + offers stats and members reviews.",
         "tags": ["Python", "Flask", "React", "SQLite"],
         "image": "book-club",
