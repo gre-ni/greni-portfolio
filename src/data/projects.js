@@ -28,20 +28,6 @@ export const projects = [
         "status": "done"
     },
     {
-        "id": 3,
-        "date": "02-2025",
-        "title": "Python Learning",
-        "description": "Curious about what I'm learning? Well, here you go! All my embarrassing first tries right here :)",
-        "tags": ["Python", "SQLite", "regex"],
-        "image": "python-learning",
-        "links": {
-            "github": "https://github.com/gre-ni/Python-Learning",
-            "live": null
-        },
-        "featured": true,
-        "status": "done"
-    },
-    {
         "id": 4,
         "date": "04-2025",
         "title": "This Portfolio Website",
@@ -51,6 +37,20 @@ export const projects = [
         "links": {
             "github": "https://github.com/gre-ni/gre-ni.github.io",
             "live": "https://greni.dev/"
+        },
+        "featured": true,
+        "status": "done"
+    },
+    {
+        "id": 3,
+        "date": "02-2025",
+        "title": "Python Learning",
+        "description": "Curious about what I'm learning? Well, here you go! All my embarrassing first tries right here :)",
+        "tags": ["Python", "SQLite", "regex"],
+        "image": "python-learning",
+        "links": {
+            "github": "https://github.com/gre-ni/Python-Learning",
+            "live": null
         },
         "featured": true,
         "status": "done"

@@ -5,7 +5,7 @@ import { Projects } from './sections/Projects'
 
 function App() {
 
-  const colors = ['#AED318']
+  const colors = ['#AED318', '#B8D8BA', '#EF959D']
   const [colorIndex, setColorIndex] = useState(0)
 
   const cycleColor = () => {
