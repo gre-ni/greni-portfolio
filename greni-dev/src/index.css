@@ -3,9 +3,11 @@
 @theme {
   --color-accent: #F91111;
   --color-highlight: #AED318;
+  /* Highlight colours for click-cycling are defined in App.jsx */
+
   --color-bg: #F1F1EF;
-  --color-dot: #7B69574D;
-  --color-lighter-bg: #F5F5F5;
+  --color-grey: #7B69574D;
+  --color-lighter-bg: #F2F2F2;
   --color-dark: #2F2F2F;
   --color-p: #606060;
   --font-serif: "Lustria", serif;
@@ -41,6 +43,15 @@
     font-size: 2.5rem;
     font-weight: 400;
     line-height: 1.2;
+    color: var(--color-dark)
+  }
+
+  h3 {
+    font-family: var(--font-mono);
+    font-size: 1.2rem;
+    font-weight: 700; 
+    line-height: 1.2;
+    color: var(--color-dark)           
   }
 
   p {
