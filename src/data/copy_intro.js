@@ -1,4 +1,4 @@
 export const copy_intro = {
-        "heading": "Hi, I'm Nikol.\nI am a Prague-based designer \nwho likes tinkering with code.",
-        "description": "Lorem ipsum dolor sit amet consectetur. Dolor ultrices sapien feugiat in amet. Urna tristique ac purus eget convallis tristique. Malesuada nisl sit mi a malesuada purus morbi urna. Scelerisque est accumsan ultrices felis ut sagittis. Consequat diam augue in duis dis lorem duis."
-    }
+  description:
+    "For years, in the world of design and UX, I've been thinking in patterns, interactions and purpose. In\u00A0this personal portfolio, I\u00A0want to show how this way of thinking eventually translated to me falling in\u00A0love with programming. From the very first 'hello, world' all the way to developing my own style and approaching each problem analytically.\n\nNo matter which point of view I\u00A0take - data, design or code - I\u00A0particularly enjoy endlessly asking why. I\u00A0care about how things look and feel, how they work, but also what drives our decisions and functionality beneath the surface.",
+};
