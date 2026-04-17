@@ -8,7 +8,7 @@ I would like for this project to be ever-growing. A place for experiments with s
 - Playing with animation and interactivity (Try the GSAP library?)
 - Skills section: detailing the intersection of the different fields I come from or am interested in
 - AI Experiments section, separate from current hand-built projects
-- Q&A Section: to
+- Q&A Section: quick thoughts and answers to questions to introduce myself better -> what tools do I use to learn? what is my approach to AI? what are my big goals in the future? etc.
 - Adding a Blog section
 
 ## Stack
